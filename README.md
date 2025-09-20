@@ -54,8 +54,6 @@ Oxylabs API temel kimlik doğrulaması (Basic Auth) kullanır. Kullanıcı adı 
 |--------------|--------|------------------------------------|
 | `OX_USER`    | string | **Gerekli**. Oxylabs kullanıcı adınız |
 | `OX_PASS`    | string | **Gerekli**. Oxylabs şifreniz      |
-| `OX_API_URL` | string | **Gerekli**. `"https://realtime.oxylabs.io/v1/queries"` |
-
 ---
 
 ## Gereksinimler
